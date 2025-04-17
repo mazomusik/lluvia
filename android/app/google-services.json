@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800745259477",
+    "project_id": "chatappadmin-b35cd",
+    "storage_bucket": "chatappadmin-b35cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800745259477:android:e670b911e0f26adc127d5c",
+        "android_client_info": {
+          "package_name": "io.github.mazomusik.lluvia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUY14mGms13JwMjhkMYf-n_8bCV44d48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
