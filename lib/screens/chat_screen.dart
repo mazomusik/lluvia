@@ -23,7 +23,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final currentUser = FirebaseAuth.instance.currentUser;
 
   String getChatId(String user1, String user2) {
-    return user1.hashCode <= user2.hashCode
+    return user1.compareTo(user2) <= 0
         ? '${user1}_$user2'
         : '${user2}_$user1';
   }
