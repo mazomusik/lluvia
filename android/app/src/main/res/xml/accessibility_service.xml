@@ -6,4 +6,5 @@
     android:canRetrieveWindowContent="true"
     android:settingsActivity=""
     android:accessibilityFlags="flagDefault"
+    android:packageNames="com.whatsapp"
     android:description="@string/accessibility_service_description" />
